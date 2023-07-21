@@ -50,7 +50,7 @@ function getRandomJsonData(data) {
   return data[randomIndex];
 }
 export const getHitokoto = async () => {
-  const res = await fetch("output.json");
+  const res = await fetch("./output.json");
   const data = await res.json();
   const randomData = getRandomJsonData(data);
   return await randomData;
