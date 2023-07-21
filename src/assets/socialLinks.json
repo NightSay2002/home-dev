@@ -1,0 +1,11 @@
+[{
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "看看本廢柴的Github長怎樣~",
+    "url": "https://github.com/SnowNight2002"
+}, {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "給本廢物寫信~",
+    "url": "mailto:wingwf57@gmail.com"
+}]
